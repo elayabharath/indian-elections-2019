@@ -1,3 +1,4 @@
+name,state,constituency,votes,votes_percent,party,age,education,assets,liabilities,cases_ipc,profession
 "Jayaprakash Narayana Valluru","Andhra Pradesh",Guntur,11841,0.88,"Bharatiya Janata Party",44,"Graduate Professional",39526187,0,"",Business
 "Nagaraju Ekula","Andhra Pradesh",Guntur,920,0.07,"Republican Party of India (A)",,,,,,
 "Bonaboyina Srinivasa Rao","Andhra Pradesh",Guntur,129205,9.56,"Janasena Party",50,"10th Pass",32876690,12482935,420|468|426|464|471|120B|34,Business
@@ -1770,7 +1771,7 @@ Nota,"Uttar Pradesh",Shahjahanpur,9037,0.76,"None of the Above",,,,,,
 "M . D . Nazeeruddin Quadri",Telangana,Secundrabad,555,0.06,"Akhil Bharatiya Muslim League (Secular)",43,"10th Pass",5090000,0,"",Journalist
 "J . Mallesh",Telangana,Secundrabad,334,0.04,"SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)",26,Graduate,0,0,"","Social worker"
 "J . N . Rao",Telangana,Secundrabad,586,0.06,"Dalita Bahujana Party",64,Graduate,1530065,0,"","President Mala Mahanadu Telangana State"
-Nota,Maharashtra,"Ratnagiri ",13777,1.53,"None of the Above",,,,,,
+Nota,Maharashtra,Ratnagiri,13777,1.53,"None of the Above",,,,,,
 "N . Shankar Goud",Telangana,Secundrabad,9683,1.06,"Janasena Party",46,"8th Pass",34643000,1800000,"",Business
 "S . Satyavathi",Telangana,Secundrabad,433,0.05,"Pyramid Party of India",55,"10th Pass",65000,0,"","HOUSE WIFE"
 "G . Laxminarsimha Rao",Telangana,Secundrabad,521,0.06,"Telangana Prajala Party",51,"Graduate Professional",12283000,2000000,506|448,"Legal Practitioner"
@@ -3355,16 +3356,16 @@ Nota,Gujarat,Kachchh,18761,1.83,"None of the Above",,,,,,
 "Rabindra Nath Bera","West Bengal",Medinipur,8570,0.61,"Amra Bangalee",75,Graduate,6189224,0,"",Retd.Govt.Employee
 "Tapas Kumar Kar","West Bengal",Medinipur,4183,0.3,Independent,45,Illiterate,36658000,360000,"","Self Employed"
 Nota,"West Bengal",Medinipur,14758,1.05,"None of the Above",,,,,,
-"Naresh Yadav",Bihar,Aurangabad,34033,3.61,"Bahujan Samaj Party",34,Literate,12674177,824000,307|420|34|120B|341|323|504,"Public Distribution System Vendor"
-"Sushil Kumar Singh",Bihar,Aurangabad,431541,45.83,"Bharatiya Janata Party",53,"Post Graduate",167895109,3746607,171F|171H|188|143,Agriculture
-"Avinash Kumar",Bihar,Aurangabad,13765,1.46,"Peoples Party of India (Democratic)",35,"Post Graduate",3717856,0,"",Profession
-"Upendra Prasad",Bihar,Aurangabad,358934,38.12,"Hindustani Awam Morcha (Secular)",55,"Post Graduate",20394370,471998,"","Social Woker & Ex MLA"
-"Dr Dharmendra Kumar",Bihar,Aurangabad,16683,1.77,"Akhil Hind Forward Bloc (Krantikari)",42,Graduate,6006600,0,379|341|323|427|353|504|34,"Self Employed"
-"Som Prakash",Bihar,Aurangabad,11779,1.25,"Swaraj Party (Loktantrik)",46,Graduate,143780000,0,"",Politics
-"Dhirendra Kumar Singh",Bihar,Aurangabad,25030,2.66,Independent,62,Graduate,8389250,0,"","Agriculture, Pension"
-"Yogendra Ram",Bihar,Aurangabad,12060,1.28,Independent,58,Literate,155000,0,"",Labour
-"Santosh Kumar Sinha",Bihar,Aurangabad,15138,1.61,Independent,43,Graduate,1275000,0,"","Non-Governmental Education Work"
-Nota,Bihar,Aurangabad,22632,2.4,"None of the Above",,,,,,
+"Naresh Yadav",Bihar,Aurangabad-b,34033,3.61,"Bahujan Samaj Party",34,Literate,12674177,824000,307|420|34|120B|341|323|504,"Public Distribution System Vendor"
+"Sushil Kumar Singh",Bihar,Aurangabad-b,431541,45.83,"Bharatiya Janata Party",53,"Post Graduate",167895109,3746607,171F|171H|188|143,Agriculture
+"Avinash Kumar",Bihar,Aurangabad-b,13765,1.46,"Peoples Party of India (Democratic)",35,"Post Graduate",3717856,0,"",Profession
+"Upendra Prasad",Bihar,Aurangabad-b,358934,38.12,"Hindustani Awam Morcha (Secular)",55,"Post Graduate",20394370,471998,"","Social Woker & Ex MLA"
+"Dr Dharmendra Kumar",Bihar,Aurangabad-b,16683,1.77,"Akhil Hind Forward Bloc (Krantikari)",42,Graduate,6006600,0,379|341|323|427|353|504|34,"Self Employed"
+"Som Prakash",Bihar,Aurangabad-b,11779,1.25,"Swaraj Party (Loktantrik)",46,Graduate,143780000,0,"",Politics
+"Dhirendra Kumar Singh",Bihar,Aurangabad-b,25030,2.66,Independent,62,Graduate,8389250,0,"","Agriculture, Pension"
+"Yogendra Ram",Bihar,Aurangabad-b,12060,1.28,Independent,58,Literate,155000,0,"",Labour
+"Santosh Kumar Sinha",Bihar,Aurangabad-b,15138,1.61,Independent,43,Graduate,1275000,0,"","Non-Governmental Education Work"
+Nota,Bihar,Aurangabad-b,22632,2.4,"None of the Above",,,,,,
 Dr.a.chellakumar,"Tamil Nadu",Krishnagiri,611298,52.64,"Indian National Congress",58,"Post Graduate",121087979,66817958,430|379|420|467|468|511|447|434|109|120B|465|471|114|147|149|500,"Business;Dealership for Hindustan Petroleum Corporation Limited, Let our Commercial Properties For Rent"
 K.p.munusamy,"Tamil Nadu",Krishnagiri,454533,39.14,"All India Anna Dravida Munnetra Kazhagam",67,"Graduate Professional",115619769,0,"","advocate and farmer"
 Madhusoodhanan.n,"Tamil Nadu",Krishnagiri,28000,2.41,"Naam Tamilar Katchi",37,"Post Graduate",10336958,1400000,"","Software Engineer"
@@ -5706,18 +5707,18 @@ Dr.k.c.patel,Gujarat,Valsad,771980,61.25,"Bharatiya Janata Party",69,"Graduate P
 "Gaurangbhai Rameshbhai Patel",Gujarat,Valsad,2997,0.24,Independent,35,Graduate,700000,0,"",Job
 "Patel Umeshbhai Maganbhai",Gujarat,Valsad,7461,0.59,Independent,46,"12th Pass",15000,0,"",Agriculture
 Nota,Gujarat,Valsad,19307,1.53,"None of the Above",,,,,,
-"Anurag Singh Thakur","Himachal Pradesh",Hamirpur,682692,69.04,"Bharatiya Janata Party",45,Graduate,56770463,1085144,420|120B|188|427|447|147|148|149|186|353|323,"Businessman, Social Activists and at present Member of Lok Sabha"
-"Desh Raj","Himachal Pradesh",Hamirpur,7095,0.72,"Bahujan Samaj Party",40,"Graduate Professional",8958922,0,"","Social Worker"
-"Ram Lal Thakur","Himachal Pradesh",Hamirpur,283120,28.63,"Indian National Congress",68,"Graduate Professional",34888616,0,"","Agriculture and Defence Lawyer (Advocate)"
-"Krishan Gopal","Himachal Pradesh",Hamirpur,2319,0.23,"Satya Bahumat Party",28,"8th Pass",25000,35000,"","Self Employed"
-"Tulsi Ram Sharma","Himachal Pradesh",Hamirpur,775,0.08,"All India Forward Bloc",73,"12th Pass",8357500,400000,"","Agriculturalist Shot At Hamirpur"
-"Ram Singh Shukla","Himachal Pradesh",Hamirpur,473,0.05,"Bahujan Mukti Party",66,"Post Graduate",4360000,0,"",Agriculturalist
-"Ashish Kumar","Himachal Pradesh",Hamirpur,330,0.03,Independent,38,"Post Graduate",50000,0,"",Agriculturalist
-"Ashok Sharma","Himachal Pradesh",Hamirpur,412,0.04,Independent,55,"10th Pass",4161870,1200000,"","Ex serviceman"
-"Parveen Thakur","Himachal Pradesh",Hamirpur,699,0.07,Independent,52,"12th Pass",11008000,5000000,"","Wholesale Trader (Business)"
-"Radha Krishan Narotra","Himachal Pradesh",Hamirpur,1420,0.14,Independent,,,,,,
-"Vikash Kumar","Himachal Pradesh",Hamirpur,1404,0.14,Independent,30,"Post Graduate",208000,140500,"","Advocate (Professional Services)"
-Nota,"Himachal Pradesh",Hamirpur,8026,0.81,"None of the Above",,,,,,
+"Anurag Singh Thakur","Himachal Pradesh",Hamirpur-h,682692,69.04,"Bharatiya Janata Party",45,Graduate,56770463,1085144,420|120B|188|427|447|147|148|149|186|353|323,"Businessman, Social Activists and at present Member of Lok Sabha"
+"Desh Raj","Himachal Pradesh",Hamirpur-h,7095,0.72,"Bahujan Samaj Party",40,"Graduate Professional",8958922,0,"","Social Worker"
+"Ram Lal Thakur","Himachal Pradesh",Hamirpur-h,283120,28.63,"Indian National Congress",68,"Graduate Professional",34888616,0,"","Agriculture and Defence Lawyer (Advocate)"
+"Krishan Gopal","Himachal Pradesh",Hamirpur-h,2319,0.23,"Satya Bahumat Party",28,"8th Pass",25000,35000,"","Self Employed"
+"Tulsi Ram Sharma","Himachal Pradesh",Hamirpur-h,775,0.08,"All India Forward Bloc",73,"12th Pass",8357500,400000,"","Agriculturalist Shot At Hamirpur"
+"Ram Singh Shukla","Himachal Pradesh",Hamirpur-h,473,0.05,"Bahujan Mukti Party",66,"Post Graduate",4360000,0,"",Agriculturalist
+"Ashish Kumar","Himachal Pradesh",Hamirpur-h,330,0.03,Independent,38,"Post Graduate",50000,0,"",Agriculturalist
+"Ashok Sharma","Himachal Pradesh",Hamirpur-h,412,0.04,Independent,55,"10th Pass",4161870,1200000,"","Ex serviceman"
+"Parveen Thakur","Himachal Pradesh",Hamirpur-h,699,0.07,Independent,52,"12th Pass",11008000,5000000,"","Wholesale Trader (Business)"
+"Radha Krishan Narotra","Himachal Pradesh",Hamirpur-h,1420,0.14,Independent,,,,,,
+"Vikash Kumar","Himachal Pradesh",Hamirpur-h,1404,0.14,Independent,30,"Post Graduate",208000,140500,"","Advocate (Professional Services)"
+Nota,"Himachal Pradesh",Hamirpur-h,8026,0.81,"None of the Above",,,,,,
 "Arun Subhash Chandra Yadav","Madhya Pradesh",Khandwa,565566,38.52,"Indian National Congress",45,Graduate,389536712,196853975,"","Income from Rent, Pension, Commission Incentive, Interest, Motorcycle and Petroleum Business etc. and Agriculture Income"
 "Dayaram Korku (thakur Dada)","Madhya Pradesh",Khandwa,14888,1.01,"Bahujan Samaj Party",60,"10th Pass",2656005,0,"",Service
 "Nandkumar Singh Chouhan (nandu Bhaiya)","Madhya Pradesh",Khandwa,838909,57.14,"Bharatiya Janata Party",66,"Post Graduate",19076515,4856939,"","Social Worker, Farmer"
@@ -7525,7 +7526,7 @@ Nota,Maharashtra,Baramati,7868,0.6,"None of the Above",,,,,,
 "Dr. Sunil Sampat Chawale",Maharashtra,Bhandara,1507,0.12,Independent,50,Doctorate,3600500,79000,"","Farm Business"
 "Sumit Vijay Pande",Maharashtra,Bhandara,3031,0.24,Independent,38,"Graduate Professional",745119,50000,"",Business
 "Suhas Anil Funde",Maharashtra,Bhandara,6983,0.56,Independent,29,"Post Graduate",150000,0,"","Service (Private)"
-Nota,Maharashtra,"Bhandara ",10524,0.85,"None of the Above",,,,,,
+Nota,Maharashtra,Bhandara,10524,0.85,"None of the Above",,,,,,
 "Pritam Gopinathrao Munde",Maharashtra,Beed,678175,50.15,"Bharatiya Janata Party",36,"Post Graduate",167477926,98833794,188,"Farmer, Social Worker"
 "Bajrang Manohar Sonwane",Maharashtra,Beed,509807,37.7,"Nationalist Congress Party",48,Graduate,160776182,8488690,143|341|188,"Farming, Dairy Business & Social Worker"
 "Ashok Bhagoji Thorat",Maharashtra,Beed,3351,0.25,"Hum Bhartiya Party",37,"8th Pass",650000,0,"","Social Work"
